@@ -1,6 +1,7 @@
 RENCANA LIBURAN FADLA
 - liburan ke italy
 - liburan ke amerika
-- liburan ke australia
+  ^ naik mobil monster
+  ^ ke hollywod
 - liburan ke new york city
 - liburan ke las vegas

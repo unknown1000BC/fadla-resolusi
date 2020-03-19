@@ -1,6 +1,7 @@
 RENCANA LIBURAN FADLA
 - liburan ke italy
 - liburan ke amerika
+  ^ jalan jalan
 - liburan ke australia
 - liburan ke new york city
 - liburan ke las vegas
